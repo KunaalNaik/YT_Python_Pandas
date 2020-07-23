@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Webinar/myTable.db
+Webinar/order.db
+*.db
